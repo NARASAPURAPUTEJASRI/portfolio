@@ -1,0 +1,150 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.portfolio-title {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.intro-box {
+  background-color: #ffcccb;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.my-name {
+  font-size: 2rem;
+  color: #333;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+.nav-link:hover {
+  background-color: #444;
+}
+#contact a {
+  text-decoration: none;
+  color: #0077b5; /* LinkedIn blue color */
+}
+
+#contact a:hover {
+  text-decoration: underline; /* Optional: Add underline on hover if you want */
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.section {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.skill-bar {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.skill-bar p {
+  width: 150px;
+  font-size: 1rem;
+  color: #333;
+}
+
+.bar {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 20px;
+}
+
+.progress {
+  height: 100%;
+  border-radius: 5px;
+}
+
+.progress.c {
+  width: 30%;
+  background-color: #76c7c0;
+}
+
+.progress.python {
+  width: 50%;
+  background-color: #76c7c0;
+}
+
+.progress.html {
+  width: 40%;
+  background-color: #76c7c0;
+}
+
+.progress.css {
+  width: 40%;
+  background-color: #76c7c0;
+}
+
+.progress.webdevelopment {
+  width: 40%;
+  background-color: #76c7c0;
+}
+
+.progress.machinelearning {
+  width: 50%;
+  background-color: #76c7c0;
+}
+
+
+
+
+
+
+
